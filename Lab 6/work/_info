@@ -1,0 +1,222 @@
+m255
+K4
+z2
+!s99 nomlopt
+!s11f vlog 2021.3_1 2021.08, Aug 15 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/runner
+T_opt
+Z1 !s110 1646248781
+V0o<53Sn>V[E56eMHZ5[VJ1
+04 15 4 work tb_top_with_LSU fast 0
+=1-000ae431a4f1-621fc34d-a8ff7-10
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc=npr
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2021.3_1;73
+vALU_RiscV
+Z3 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R1
+!i10b 1
+!s100 <R>R^d=HJT>cJe;i@:3[i2
+I9<kY2Hj78i?gZfE9mXm0Z1
+S1
+R0
+Z4 w1646248778
+8ALU_RiscV.v
+FALU_RiscV.v
+!i122 0
+L0 4 38
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2021.3_1;73
+r1
+!s85 0
+31
+Z7 !s108 1646248781.000000
+Z8 !s107 RAM_RiscV.sv|LSU.v|Decoder.v|RegFile.v|ALU_RiscV.v|defines.v|CoreRiscV.v|top_RiscV.sv|testbench.sv|design.sv|
+Z9 !s90 -writetoplevels|questa.tops|-timescale|1ns/1ns|design.sv|testbench.sv|
+!i113 0
+Z10 o-timescale 1ns/1ns
+R2
+n@a@l@u_@risc@v
+vCoreRiscV
+R3
+R1
+!i10b 1
+!s100 6_eBRiF`5UPn@5WgnjSGZ1
+I6aAk2kGQ`HC<zNhbX2lY=3
+S1
+R0
+R4
+8CoreRiscV.v
+FCoreRiscV.v
+!i122 0
+L0 7 177
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R2
+n@core@risc@v
+vDecoder
+R3
+R1
+!i10b 1
+!s100 >0W4^>cBgL4`YS9XBe@Q92
+IRLg1H<9EVG^iZ4aZIYQd03
+S1
+R0
+R4
+8Decoder.v
+FDecoder.v
+!i122 0
+L0 4 175
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R2
+n@decoder
+vLSU
+R3
+R1
+!i10b 1
+!s100 3`ied2<YAl;Ml>VQ6[2DB1
+IzeB1T0Ihe@adlYYdba`Sl1
+S1
+R0
+R4
+8LSU.v
+FLSU.v
+!i122 0
+L0 3 80
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R2
+n@l@s@u
+vRAM_RiscV
+R3
+R1
+!i10b 1
+!s100 lKIOa<U[FlPCfhaHHTl4^3
+Ih^XZ>^D3=i8XPgL==6R??2
+S1
+R0
+R4
+8RAM_RiscV.sv
+FRAM_RiscV.sv
+!i122 0
+L0 1 59
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R2
+n@r@a@m_@risc@v
+vRegFile
+R3
+R1
+!i10b 1
+!s100 >FcWdihKhdS8cMbmGbE;P1
+IaF8GPZzE4FKcN2P?jh6iQ3
+S1
+R0
+R4
+8RegFile.v
+FRegFile.v
+!i122 0
+L0 1 18
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R2
+n@reg@file
+vtb_top_with_LSU
+R3
+R1
+!i10b 1
+!s100 `C6XKfeA_PU`<aT:Q4A5X1
+I:LFel=AnUlj`;068R:7^h3
+S1
+R0
+R4
+8testbench.sv
+Ftestbench.sv
+!i122 0
+L0 6 76
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R2
+ntb_top_with_@l@s@u
+vtop_RiscV
+R3
+R1
+!i10b 1
+!s100 9=V=jzl>lad6ZOSUim^:b3
+IgNAJSOmj>zn:`gn>A9R3B0
+S1
+R0
+R4
+8top_RiscV.sv
+Ftop_RiscV.sv
+!i122 0
+L0 4 74
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R2
+ntop_@risc@v
